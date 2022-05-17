@@ -1,4 +1,4 @@
-- 👋 olá, meu nome é @Renato17042006
+- 👋 olá, meu nome é **@Renato17042006**
 - 👍 meu gmail de contato é renato.cordeiro.santos@escola.pr.gov.br
 - 👀 estou interessado a aprender programação em linguagens diferentes
 - 🌱 no momento estou estudando programação no Java script e no Scratch
