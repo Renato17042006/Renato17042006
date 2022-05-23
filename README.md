@@ -1,4 +1,4 @@
-#SOBRE MIM
+-sobre mim
 - 👋 olá, meu nome é **@Renato17042006**
 - 👍 meu gmail de contato é [email](renato.cordeiro.santos@escola.pr.gov.br)
 - 👀 estou interessado a aprender programação em linguagens diferentes
